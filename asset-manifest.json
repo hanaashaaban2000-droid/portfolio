@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.15e8baa0.css",
+    "main.css": "/portfolio/static/css/main.1f7ad2c8.css",
     "main.js": "/portfolio/static/js/main.0d01ccac.js",
     "static/media/div5.jpg": "/portfolio/static/media/div5.11943b32cfcf860c65ff.jpg",
     "static/media/لقطة شاشة 2025-01-29 175114.png": "/portfolio/static/media/لقطة شاشة 2025-01-29 175114.59f8462ce7044ff31b0a.png",
+    "static/media/fa-solid-900.ttf": "/portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/div4.jpg": "/portfolio/static/media/div4.e2371290cd564cce493c.jpg",
     "static/media/sec2-div1-removebg-preview (1).jpg": "/portfolio/static/media/sec2-div1-removebg-preview (1).15722d7cc96bb6f30823.jpg",
+    "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/div2.jpg": "/portfolio/static/media/div2.87f3e10f7dad5acf4475.jpg",
     "static/media/head-bg.jpg": "/portfolio/static/media/head-bg.031864aa263e245eff94.jpg",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/div6.jpg": "/portfolio/static/media/div6.3e79337bddaa0f8c8e53.jpg",
     "static/media/fish-removebg-preview.png": "/portfolio/static/media/fish-removebg-preview.6bcd86cbce5ad7086e06.png",
+    "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/div1.jpg": "/portfolio/static/media/div1.f969d821eaa00effa8a1.jpg",
+    "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
-    "main.15e8baa0.css.map": "/portfolio/static/css/main.15e8baa0.css.map",
+    "main.1f7ad2c8.css.map": "/portfolio/static/css/main.1f7ad2c8.css.map",
     "main.0d01ccac.js.map": "/portfolio/static/js/main.0d01ccac.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e8baa0.css",
+    "static/css/main.1f7ad2c8.css",
     "static/js/main.0d01ccac.js"
   ]
 }
