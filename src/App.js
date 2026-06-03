@@ -21,8 +21,8 @@ const  App =()=> {
             
     <Routes>
          
-              {/* <Route path="/skills" element={<Skills/>}/> */}
-            <Route  path="" element={<Projects/>}>
+            
+            <Route  path="/" element={<Projects/>}>
             <Route path="sec1" element={
           <>
           <Section1/>
