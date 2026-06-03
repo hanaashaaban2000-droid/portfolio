@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import { BrowserRouter,Routes, Route  } from "react-router-dom";
+import { Routes, Route  } from "react-router-dom";
 import Header from "./component/Header";
 import Home from "./component/Home";
 import Skills from "./component/Skills";
@@ -12,7 +12,7 @@ import Footer from "./component/Footer";
 // import Final from "./component/Final";
 const  App =()=> {
   return(
-  <BrowserRouter>
+ <>
          <Header/>
          <Home/>
      
@@ -37,52 +37,13 @@ const  App =()=> {
           </>
           }/> 
          
-          
-       
           </Route> 
          
           </Routes>
           <Footer/>
         
-        </BrowserRouter>
+       </>
         
       )
   }
   export default App;
-
-
-
-// import React from "react";
-// import { BrowserRouter,Routes ,Route } from "react-router-dom";
-// import Home from "./Home";
-// import Teams from "./Teams";
-// import Prices from "./Prices";
-// import Footer from "./Footer";
-// import Header from "./Header";
-// import Studata from "./Studata";
-// import Allstu from "./Allstu";
-// import StuFailure from "./Stufailure";
-// import StuSuccess from "./Stusuccess";
-// const APP=()=>{
-//     return(
-//         <BrowserRouter>
-//          <Header/>
-//         <Routes>
-       
-//             <Route path="/home" element={<Home/>}/>
-//             <Route path="/teams" element={<Teams/>}/>
-//             <Route path="/prices" element={<Prices/>}/>
-//             <Route path="/footer" element={<Footer/>}/>
-//             <Route path="/studata" element={ <Studata/>}/>
-//             <Route path="*" element={<h2>page not found</h2>}/>
-
-//             {/* <Route path="/students" element={<Allstu/>}>
-//         <Route path=":studenstid" element={<StuSuccess/>}/>
-//         <Route path="500" element={<StuFailure/>}/>
-//         </Route> */}
-//         </Routes>
-       
-//         </BrowserRouter>
-//     )
-// }
-// export default APP;
